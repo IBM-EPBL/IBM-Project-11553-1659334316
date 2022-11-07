@@ -1,24 +1,25 @@
-IBM Project
+   IBM Project
+   
 Signs with Smart Connectivity for Better Road Safety
-Team ID : PNT2022TMID02450
+Team ID : PNT2022TMID28982
 Assignments :
 Team Lead :
-Sayad Pervez B
+VIVEK V R
 Assignment 01 : Home Automation in TinkerCAD
 Assignment 02 : Python Program to Simulate Sensor Values
 Assignment 03 : Traffic Lights using Raspberry Pi
 Team Member 1
-Ulagaraja J
+VIGNESH R
 Assignment 01 : Home Automation in TinkerCAD
 Assignment 02 : Python Program to Simulate Sensor Values
 Assignment 03 : Traffic Lights using Raspberry Pi
 Team Member 2
-Yuvashree R
+RITHU BHARATHAN
 Assignment 01 : Home Automation in TinkerCAD
 Assignment 02 : Python Program to Simulate Sensor Values
 Assignment 03 : Traffic Lights using Raspberry Pi
 Team Member 3
-Yuvasri M
+SANJAI KUMAR P V M
 Assignment 01 : Home Automation in TinkerCAD
 Assignment 02 : Python Program to Simulate Sensor Values
 Assignment 03 : Traffic Lights using Raspberry Pi
