@@ -10,44 +10,44 @@ Team Lead :
 
 VIVEK V R
 
-Assignment 01 : Home Automation in TinkerCAD
+  Assignment 01 : Home Automation in TinkerCAD
 
-Assignment 02 : Python Program to Simulate Sensor Values
+  Assignment 02 : Python Program to Simulate Sensor Values
 
-Assignment 03 : Traffic Lights using Raspberry Pi
+  Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 Team Member 1:
 
 VIGNESH R
 
-Assignment 01 : Home Automation in TinkerCAD
+  Assignment 01 : Home Automation in TinkerCAD
 
-Assignment 02 : Python Program to Simulate Sensor Values
+  Assignment 02 : Python Program to Simulate Sensor Values
 
-Assignment 03 : Traffic Lights using Raspberry Pi
+  Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 Team Member 2:
 
 RITHU BHARATHAN
 
-Assignment 01 : Home Automation in TinkerCAD
+  Assignment 01 : Home Automation in TinkerCAD
 
-Assignment 02 : Python Program to Simulate Sensor Values
+  Assignment 02 : Python Program to Simulate Sensor Values
 
-Assignment 03 : Traffic Lights using Raspberry Pi
+  Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 Team Member 3:
 
 SANJAI KUMAR P V M
 
-Assignment 01 : Home Automation in TinkerCAD
+  Assignment 01 : Home Automation in TinkerCAD
 
-Assignment 02 : Python Program to Simulate Sensor Values
+  Assignment 02 : Python Program to Simulate Sensor Values
 
-Assignment 03 : Traffic Lights using Raspberry Pi
+  Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 
