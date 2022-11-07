@@ -11,98 +11,112 @@ Team Lead :
 VIVEK V R
 
 Assignment 01 : Home Automation in TinkerCAD
+
 Assignment 02 : Python Program to Simulate Sensor Values
+
 Assignment 03 : Traffic Lights using Raspberry Pi
 
 
-Team Member 1
+Team Member 1:
 
 VIGNESH R
 
 Assignment 01 : Home Automation in TinkerCAD
+
 Assignment 02 : Python Program to Simulate Sensor Values
+
 Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 Team Member 2:
 
 RITHU BHARATHAN
+
 Assignment 01 : Home Automation in TinkerCAD
+
 Assignment 02 : Python Program to Simulate Sensor Values
+
 Assignment 03 : Traffic Lights using Raspberry Pi
 
 
 Team Member 3:
 
 SANJAI KUMAR P V M
+
 Assignment 01 : Home Automation in TinkerCAD
+
 Assignment 02 : Python Program to Simulate Sensor Values
+
 Assignment 03 : Traffic Lights using Raspberry Pi
+
+
 
 TASKS:
 
-PREREQUISITES
+      PREREQUISITES
 
-SOFTWARE
+      SOFTWARE
 
-IBM CLOUD SERVICES
+      IBM CLOUD SERVICES
 
-CREATE AN ACCOUNT IN OPENWEATHERMAP WEBSITE
+      CREATE AN ACCOUNT IN OPENWEATHERMAP WEBSITE
 
-CREATE AND CONFIGURE IBM CLOUD SERVICES
+      CREATE AND CONFIGURE IBM CLOUD SERVICES
 
-CREATE IBM WATSON IOT PLATFORM AND DEVICE
+      CREATE IBM WATSON IOT PLATFORM AND DEVICE
 
-CREATE NODE-RED SERVICE
+      CREATE NODE-RED SERVICE
 
-DEVELOP THE PYTHON SCRIPT
+      DEVELOP THE PYTHON SCRIPT
 
-DEVELOP A PYTHON SCRIPT
+      DEVELOP A PYTHON SCRIPT
 
-PUBLISH DATA TO IBM CLOUD
+      PUBLISH DATA TO IBM CLOUD
 
-DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
+      DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
 
-DEVELOP THE WEB APPLICATION USING NODE-RED
+      DEVELOP THE WEB APPLICATION USING NODE-RED
 
-USE DASHBOARD NODES FOR CREATING UI( WEB APP )
+      USE DASHBOARD NODES FOR CREATING UI( WEB APP )
+
 
 
 Project Design & Planning :
 
-Ideation Phase
+      Ideation Phase
 
-Empathy Map
+      Empathy Map
 
-Literature Survey
+      Literature Survey
 
-Ideation
+      Ideation
 
-Project Design Phase 1
+      Project Design Phase 1:
 
-Proposed Solution
+                   Proposed Solution
 
-Solution Fit
+                   Solution Fit
 
-Solution Architecture
+                   Solution Architecture
 
-Project Design Phase 2
+      Project Design Phase 2:
 
-Customer Journey Map
+                   Customer Journey Map
 
-Data Flow
+                   Data Flow
 
-Functional Requirement
+                   Functional Requirement
 
-Project Planning
-
-Project & Sprint Delivery Plan
+      Project Planning
 
 
-Project Development Phase :
 
-Sprint 01
+Project & Sprint Delivery Plan:
 
-Sprint 02
+      Project Development Phase:
 
-Sprint 03
+                     Sprint 01
+
+                     Sprint 02
+
+                     Sprint 03
