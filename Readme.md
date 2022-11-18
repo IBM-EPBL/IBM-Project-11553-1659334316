@@ -95,30 +95,42 @@ Project Design & Planning :
 
 Project Design Phase 1:
 
- - [Proposed Solution](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Proposed%20Solution.pdf)
+      - [Proposed Solution](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Proposed%20Solution.pdf)
 
- - [Solution Fit](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Problem%20Solution%20Fit.pdf)
+      - [Solution Fit](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Problem%20Solution%20Fit.pdf)
 
- - [Solution Architecture](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Solution%20Architecture.pdf)
+      - [Solution Architecture](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Solution%20Architecture.pdf)
 
 Project Design Phase 2:
 
- - [Customer Journey Map](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Customer%20Journey%20Map.pdf)
+      - [Customer Journey Map](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Customer%20Journey%20Map.pdf)
 
- - [Data Flow
+      - [Data Flow](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Data%20Flow%20Diagram.pdf)
 
- - [Functional Requirement
+      - [Solution Requirement](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Solution%20Requirements.pdf)
+ 
+      - [Technology Stack](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Technology%20Stack.pdf)
 
- [Project Planning
+Project Planning
+      - [Project & Sprint Delivery Plan](./Project%20Design%20and%20Planning/Project%20Planning)
 
 
 
-Project & Sprint Delivery Plan:
+### Project Development Phase:
 
-      Project Development Phase:
+       - [Sprint 01](./Project%20Development%20Phase/Sprint%201)
 
-                     Sprint 01
+       - [Sprint 02](./Project%20Development%20Phase/Sprint%202)
+       
+       - [Sprint 03](./Project%20Development%20Phase/Sprint%203)
 
-                     Sprint 02
+       - [Sprint 04](./Project%20Development%20Phase/Sprint%204)
+       
+       
+### Final Deliverables:
 
-                     Sprint 03
+       - [Demo Video](./Final%20Deliverables/DEMO%20SMART%20CONNECTIVITY%20FOR%20BETTER%20ROADS.mp4) 
+       
+       - [Final Report](./Final%20Deliverables/IBM%20PROJECT%20REPORT.pdf)
+       
+## Thank You       
