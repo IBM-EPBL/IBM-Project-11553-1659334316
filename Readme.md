@@ -52,61 +52,64 @@ Team Member 3:
 
 TASKS:
 
-      PREREQUISITES
+ - PREREQUISITES
 
-      SOFTWARE
+      - [SOFTWARE](./Pre%20requisites/SOFTWARE%20(Python%20Idle%20%26%20Fast%202%20Sms).pdf)
 
-      IBM CLOUD SERVICES
+      - [IBM CLOUD SERVICES](./Pre%20requisites/IBM%20Cloud%20Service.pdf)
 
-      CREATE AN ACCOUNT IN OPENWEATHERMAP WEBSITE
+      - [CREATE AN ACCOUNT IN OPENWEATHERMAP WEBSITE](./Pre%20requisites/Create%20an%20account%20in%20Open%20Weather%20Map%20website.pdf)
 
-      CREATE AND CONFIGURE IBM CLOUD SERVICES
+ - CREATE AND CONFIGURE IBM CLOUD SERVICES
 
-      CREATE IBM WATSON IOT PLATFORM AND DEVICE
+      - [CREATE IBM WATSON IOT PLATFORM AND DEVICE](./Create%20and%20Configure%20IBM%20Cloud%20Services/CREATE%20IBM%20WATSON%20IOT%20PLATFORM%20AND%20DEVICE.pdf)
 
-      CREATE NODE-RED SERVICE
+      - [CREATE NODE-RED SERVICE](./Create%20and%20Configure%20IBM%20Cloud%20Services/CREATE%20NODE-RED%20SERVICE.pdf)
 
-      DEVELOP THE PYTHON SCRIPT
+ - DEVELOP THE PYTHON SCRIPT
 
-      DEVELOP A PYTHON SCRIPT
+     - [DEVELOP A PYTHON SCRIPT](./Develop%20a%20Python%20Script/DEVELOP%20A%20PYTHON%20SCRIPT.pdf)
 
-      PUBLISH DATA TO IBM CLOUD
+     - [PUBLISH DATA TO IBM CLOUD](./Develop%20a%20Python%20Script/PUBLISH%20DATA%20TO%20IBM%20CLOUD.pdf)
 
-      DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
+ - DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
 
-      DEVELOP THE WEB APPLICATION USING NODE-RED
+     - [DEVELOP THE WEB APPLICATION USING NODE-RED](./Develop%20a%20Web%20Application%20using%20Node%20Red%20Services/DEVELOP%20THE%20WEB%20APPLICATION%20USING%20NODE-RED.pdf)
 
-      USE DASHBOARD NODES FOR CREATING UI( WEB APP )
+     - [USE DASHBOARD NODES FOR CREATING UI( WEB APP )](./Develop%20a%20Web%20Application%20using%20Node%20Red%20Services/USE%20DASHBOARD%20NODES%20FOR%20CREATING%20UI(%20WEB%20APP%20).pdf)
 
 
 
 Project Design & Planning :
 
-      Ideation Phase
+ - Ideation Phase
 
-      Empathy Map
+      - [Empathy Map](./Project%20Design%20and%20Planning/Ideation%20Phase/Empathy%20Map.pdf)
 
-      Literature Survey
+      - [Literature Survey](./Project%20Design%20and%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
 
-      Ideation
+      - [Problem Statement](./Project%20Design%20and%20Planning/Ideation%20Phase/Problem%20statement.pdf)
+      
+      - [Brainstorming](./Project%20Design%20and%20Planning/Ideation%20Phase/Brainstorming.pdf)
 
-      Project Design Phase 1:
 
-                   Proposed Solution
+Project Design Phase 1:
 
-                   Solution Fit
+ - [Proposed Solution](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Proposed%20Solution.pdf)
 
-                   Solution Architecture
+ - [Solution Fit](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Problem%20Solution%20Fit.pdf)
 
-      Project Design Phase 2:
+ - [Solution Architecture](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2001/Solution%20Architecture.pdf)
 
-                   Customer Journey Map
+Project Design Phase 2:
 
-                   Data Flow
+ - [Customer Journey Map](./Project%20Design%20and%20Planning/Project%20Design%20Phase%20-%2002/Customer%20Journey%20Map.pdf)
 
-                   Functional Requirement
+ - [Data Flow
 
-      Project Planning
+ - [Functional Requirement
+
+ [Project Planning
 
 
 
