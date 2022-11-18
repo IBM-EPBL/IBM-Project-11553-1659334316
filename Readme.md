@@ -6,10 +6,8 @@
 ### Assignments :
 
 #### Team Lead :
-
-VIVEK V R
-
-  Assignment 01 : Home Automation in TinkerCAD
+- VIVEK V R
+  - Assignment 01 : Home Automation in TinkerCAD
 
   Assignment 02 : Python Program to Simulate Sensor Values
 
