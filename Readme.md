@@ -9,43 +9,45 @@
 - VIVEK V R
   - [Assignment 01 : Home Automation in TinkerCAD](./Assessment/Vivek(Team%20Lead)/Assignment-01)
 
-  Assignment 02 : Python Program to Simulate Sensor Values
+  - [Assignment 02 : Python Program to Simulate Sensor Values](./Assessment/Vivek(Team%20Lead)/Assignment-02)
 
-  Assignment 03 : Traffic Lights using Raspberry Pi
+  - [Assignment 03 : Traffic Lights using Raspberry Pi](./Assessment/Vivek(Team%20Lead)/Assignment-03)
+
+  - [Assignment 04 : Ultrasonic sensors using WOKWI Simulator](./Assessment/Vivek(Team%20Lead)/Assignment%20-%2004) 
 
 
 Team Member 1:
+- VIGNESH R
 
-VIGNESH R
+  - [Assignment 01 : Home Automation in TinkerCAD](./Assessment/Vignesh/Assignment-01)
+ 
+  - [Assignment 02 : Python Program to Simulate Sensor Values](./Assessment/Vignesh/Assignment-02)
 
-  Assignment 01 : Home Automation in TinkerCAD
+  - [Assignment 03 : Traffic Lights using Raspberry Pi](./Assessment/Vignesh/Assignment-03)
 
-  Assignment 02 : Python Program to Simulate Sensor Values
-
-  Assignment 03 : Traffic Lights using Raspberry Pi
-
+  - [Assignment 04 : Ultrasonic sensors using WOKWI Simulator](./Assessment/Vignesh/Assignment%20-%2004) 
 
 Team Member 2:
+- RITHU BHARATHAN
 
-RITHU BHARATHAN
+  - [Assignment 01 : Home Automation in TinkerCAD](./Assessment/Rithu%20Bharathan/Assignment-01)
 
-  Assignment 01 : Home Automation in TinkerCAD
+  - [Assignment 02 : Python Program to Simulate Sensor Values](./Assessment/Rithu%20Bharathan/Assignment-02)
 
-  Assignment 02 : Python Program to Simulate Sensor Values
+  - [Assignment 03 : Traffic Lights using Raspberry Pi](./Assessment/Rithu%20Bharathan/Assignment-03)
 
-  Assignment 03 : Traffic Lights using Raspberry Pi
-
+  - [Assignment 04 : Ultrasonic sensors using WOKWI Simulator](./Assessment/Rithu%20Bharathan/Assignment-04) 
 
 Team Member 3:
+- SANJAI KUMAR P V M
 
-SANJAI KUMAR P V M
+  - [Assignment 01 : Home Automation in TinkerCAD](./Assessment/Sanjai%20Kumar/Assignment-01)
 
-  Assignment 01 : Home Automation in TinkerCAD
+  - [Assignment 02 : Python Program to Simulate Sensor Values](./Assessment/Sanjai%20Kumar/Assignment-02)
 
-  Assignment 02 : Python Program to Simulate Sensor Values
+  - [Assignment 03 : Traffic Lights using Raspberry Pi](./Assessment/Sanjai%20Kumar/Assignment-03)
 
-  Assignment 03 : Traffic Lights using Raspberry Pi
-
+  - [Assignment 04 : Ultrasonic sensors using WOKWI Simulator](./Assessment/Sanjai%20Kumar/Assignment-%2004) 
 
 
 TASKS:
