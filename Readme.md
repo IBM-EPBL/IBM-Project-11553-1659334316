@@ -1,7 +1,7 @@
-/                                                                   # IBM Project
+# IBM Project
 
-## Signs with Smart Connectivity for Better Road Safety
-                                                            #Team ID : PNT2022TMID28982
+## Signs with Smart Connectivity for Better Road Safety 
+## Team ID : PNT2022TMID28982
 
 Assignments :
 
